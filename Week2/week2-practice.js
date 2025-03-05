@@ -9,3 +9,5 @@ function convertFeetToInches(length){
 console.log(convertFeetToInches(1) + " inches");
 console.log(convertFeetToInches(3) + " inches");
 console.log(convertFeetToInches(30) + " inches");
+
+console.log(`Inches per 3 feet: ${convertFeetToInches(3)}`)
